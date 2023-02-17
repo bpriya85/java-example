@@ -11,7 +11,6 @@
          <maven.compiler.target>1.6</maven.compiler.target>
 		 <sonar.coverage.jacoco.xmlReportPaths>${basedir}/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 	    
-	    <!-- Demo on Github Webhooks-->
     </properties>
     <dependencies>
         <dependency>
